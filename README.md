@@ -1,5 +1,10 @@
-![Top Languages](https://github-readme-stats-jlhz7wrbj-sanodmendis-projects.vercel.app/api/top-langs/?username=sanodmendis&layout=compact&theme=dark)
+# Sanod Mendis' GitHub Profile
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sanodmendis&theme=dark)
+## 📊 GitHub Stats
 
-![GitHub Stats]([https://github-readme-stats-jlhz7wrbj-sanodmendis-projects.vercel.app/api?username=sanodmendis&count_private=true&theme=dark&show_icons=true](https://github-readme-stats-jlhz7wrbj-sanodmendis-projects.vercel.app/api?username=sanodmendis&show_icons=true&count_private=true&include_all_commits=true))
+| Language Stats              | Contribution Streak       |
+|-----------------------------|---------------------------|
+| [![Top Languages](https://github-readme-stats-hy586gzr8-sanodmendis-projects.vercel.app/api/top-langs/?username=sanodmendis&layout=compact&theme=dark)](https://github.com/sanodmendis) | [![GitHub Streak](https://streak-stats.demolab.com/?user=sanodmendis&theme=dark)](https://github.com/sanodmendis) |
+
+## Overall Stats
+[![GitHub Stats](https://github-readme-stats-hy586gzr8-sanodmendis-projects.vercel.app/api?username=sanodmendis&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/sanodmendis)
