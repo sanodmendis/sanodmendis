@@ -1,12 +1,7 @@
 # 👋 Hi there, I'm Sanod
 
-<table>
-<tr>
-<td colspan="2" valign="top" width="100%">
-
-### 💼 About Me
-
-I’m a passionate **Software Developer** and **University Student** with 5+ years of professional and freelance experience, including at **MAS Intimates**. My expertise spans **C#** (desktop apps), **Java** (mobile development), and **Python**, specializing in building scalable **PoS**, **ERP**, **Inventory Management**, and **CRM** systems from the ground up. I’m highly committed to delivering products that meet the highest quality standards, focusing on clean, optimized code and seamless user experiences. I’m skilled in working with **Azure**, **AWS**, **SQL**, and cloud-based platforms to ensure performance, scalability, and maintainability.
+## 💼 About Me
+I'm a passionate **Software Developer** and **University Student** with 5+ years of professional and freelance experience, including at **MAS Intimates**. My expertise spans **C#** (desktop apps), **Java** (mobile development), and **Python**, specializing in building scalable **PoS**, **ERP**, **Inventory Management**, and **CRM** systems from the ground up. I'm highly committed to delivering products that meet the highest quality standards, focusing on clean, optimized code and seamless user experiences. I'm skilled in working with **Azure**, **AWS**, **SQL**, and cloud-based platforms to ensure performance, scalability, and maintainability.
 
 Currently, I'm expanding my skills into **web development**, with a keen interest in building modern, responsive applications.
 
@@ -17,30 +12,21 @@ Currently, I'm expanding my skills into **web development**, with a keen interes
 - 🚀 Committed to continuous growth, aiming to transition from developer to leadership while delivering impactful solutions.  
 - ✅ Strong focus on **product quality**, ensuring every solution is thoroughly tested and optimized for the best user experience.
 
-</td>
-</tr>
+---
 
-<tr>
-<td colspan="2" valign="top" width="100%">
+## 📊 GitHub Stats
 
-<table width="100%">
-<tr>
-<td align="left" width="50%">
-<img src="https://github-readme-stats-sanodmendis-projects.vercel.app/api?username=sanodmendis&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2c3e50,2e4154,34495e&hide_border=true&hide_title=true" />
-</td>
-<td align="right" width="50%">
-<img src="https://streak-stats.demolab.com?user=sanodmendis&hide_border=true&background=2c3e50&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&text=ffffff" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats-sanodmendis-projects.vercel.app/api?username=sanodmendis&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2c3e50,2e4154,34495e&hide_border=true&hide_title=true" width="450" />
+</div>
 
-</td>
-</tr>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sanodmendis&hide_border=true&background=2c3e50&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&text=ffffff" width="450" />
+</div>
 
-<tr>
-<td valign="top" width="65%">
+---
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 - **Programming Languages:** C#, Python, Java, C++, PHP, JavaScript  
 - **Desktop Application Frameworks:** .NET Framework & Core, Qt, Tkinter, JavaFX, PyQt  
@@ -52,19 +38,14 @@ Currently, I'm expanding my skills into **web development**, with a keen interes
 - **Automation:** Engineered **GitHub Actions** workflows to automate CI/CD pipelines, enhancing deployment efficiency  
 - **Emerging Tech:** Integration of **AI/ML** technologies with **TensorFlow**, **PyTorch** and **NumPy**
 
-</td>
-<td valign="top" width="35%">
-  <a href="https://github.com/sanodmendis">
-    <img 
-      src="https://github-readme-stats-sanodmendis-projects.vercel.app/api/top-langs/?username=sanodmendis&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=2c3e50,2e4154,34495e&hide_border=true" 
-      width="350" 
-      height="262" 
-    />
-  </a>
-</td>
-</tr>
-</table>
+---
+
+## 📈 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats-sanodmendis-projects.vercel.app/api/top-langs/?username=sanodmendis&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=2c3e50,2e4154,34495e&hide_border=true" width="400" />
+</div>
 
 ---
 
-_“Code is not just code — it's a solution, a product and an experience.”_
+*"Code is not just code — it's a solution, a product and an experience."*
