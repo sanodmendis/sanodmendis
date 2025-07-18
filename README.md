@@ -1,10 +1,70 @@
-# Sanod Mendis' GitHub Profile
+# 👋 Hi there, I'm Sanod
 
-## 📊 GitHub Stats
+<table>
+<tr>
+<td colspan="2" valign="top" width="100%">
 
-| Language Stats              | Contribution Streak       |
-|-----------------------------|---------------------------|
-| [![Top Languages](https://github-readme-stats-hy586gzr8-sanodmendis-projects.vercel.app/api/top-langs/?username=sanodmendis&layout=compact&theme=dark)](https://github.com/sanodmendis) | [![GitHub Streak](https://streak-stats.demolab.com/?user=sanodmendis&theme=dark)](https://github.com/sanodmendis) |
+### 💼 About Me
 
-## Overall Stats
-[![GitHub Stats](https://github-readme-stats-hy586gzr8-sanodmendis-projects.vercel.app/api?username=sanodmendis&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/sanodmendis)
+I’m a passionate **Software Developer** and **University Student** with 5+ years of professional and freelance experience, including at **MAS Intimates**. My expertise spans **C#** (desktop apps), **Java** (mobile development), and **Python**, specializing in building scalable **PoS**, **ERP**, **Inventory Management**, and **CRM** systems from the ground up. I’m highly committed to delivering products that meet the highest quality standards, focusing on clean, optimized code and seamless user experiences. I’m skilled in working with **Azure**, **AWS**, **SQL**, and cloud-based platforms to ensure performance, scalability, and maintainability.
+
+Currently, I'm expanding my skills into **web development**, with a keen interest in building modern, responsive applications.
+
+### Key Highlights:
+- 🔧 Passionate about developing robust, custom software solutions with a focus on clean architecture and high performance.  
+- ☁️ Experienced in deploying enterprise-grade applications using **Azure**, **AWS**, and **Firebase**.  
+- 💡 Constantly exploring emerging technologies, including **AI/ML**, **IoT**, and **Full-Stack Development**.  
+- 🚀 Committed to continuous growth, aiming to transition from developer to leadership while delivering impactful solutions.  
+- ✅ Strong focus on **product quality**, ensuring every solution is thoroughly tested and optimized for the best user experience.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top" width="100%">
+
+<table width="100%">
+<tr>
+<td align="left" width="50%">
+<img src="https://github-readme-stats-sanodmendis-projects.vercel.app/api?username=sanodmendis&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2c3e50,2e4154,34495e&hide_border=true&hide_title=true" />
+</td>
+<td align="right" width="50%">
+<img src="https://streak-stats.demolab.com?user=sanodmendis&hide_border=true&background=2c3e50&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&text=ffffff" />
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="65%">
+
+### 🛠️ Technical Skills
+
+- **Programming Languages:** C#, Python, Java, C++, PHP, JavaScript  
+- **Desktop Application Frameworks:** .NET Framework & Core, Qt, Tkinter, JavaFX, PyQt  
+- **Databases:** MySQL, MongoDB, SQLite, SQL Server  
+- **Cloud & DevOps:** Azure, AWS, Firebase, Git, GitHub, Postman  
+- **Project Management:** Managed agile workflows using **Jira** and **GitHub Projects**  
+- **Testing & Debugging:** Experienced in **Unit Testing**, **Integration Testing** and utilizing **Visual Studio Debugger**  
+- **Packaging & Deployment:** Skilled in creating professional installers and setup packages for desktop applications  
+- **Automation:** Engineered **GitHub Actions** workflows to automate CI/CD pipelines, enhancing deployment efficiency  
+- **Emerging Tech:** Integration of **AI/ML** technologies with **TensorFlow**, **PyTorch** and **NumPy**
+
+</td>
+<td valign="top" width="35%">
+  <a href="https://github.com/sanodmendis">
+    <img 
+      src="https://github-readme-stats-sanodmendis-projects.vercel.app/api/top-langs/?username=sanodmendis&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=2c3e50,2e4154,34495e&hide_border=true" 
+      width="350" 
+      height="262" 
+    />
+  </a>
+</td>
+</tr>
+</table>
+
+---
+
+_“Code is not just code — it's a solution, a product and an experience.”_
