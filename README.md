@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sanod
 
 ## 💼 About Me
-I'm a passionate **Software Developer** and **University Student** with 5+ years of professional and freelance experience, including at **MAS Intimates**. My expertise spans **C#** (desktop apps), **Java** (mobile development), and **Python**, specializing in building scalable **PoS**, **ERP**, **Inventory Management**, and **CRM** systems from the ground up. I'm highly committed to delivering products that meet the highest quality standards, focusing on clean, optimized code and seamless user experiences. I'm skilled in working with **Azure**, **AWS**, **SQL**, and cloud-based platforms to ensure performance, scalability, and maintainability.
+I'm a passionate **Software Developer** with 5+ years of professional and freelance experience, including at **MAS Intimates**. My expertise spans **C#** (desktop apps), **Java** (mobile development), and **Python**, specializing in building scalable **PoS**, **ERP**, **Inventory Management**, and **CRM** systems from the ground up. I'm highly committed to delivering products that meet the highest quality standards, focusing on clean, optimized code and seamless user experiences. I'm skilled in working with **Azure**, **AWS**, **SQL**, and cloud-based platforms to ensure performance, scalability, and maintainability.
 
 Currently, I'm expanding my skills into **web development**, with a keen interest in building modern, responsive applications.
 
