@@ -17,7 +17,7 @@ Currently, I'm expanding my skills into **web development**, with a keen interes
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sanodmendis-projects.vercel.app/api?username=sanodmendis&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2c3e50,2e4154,34495e&hide_border=true&hide_title=true&cache_seconds=3" width="450" />
+  <img src="https://github-readme-stats-sanodmendis-projects.vercel.app/api?username=sanodmendis&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2c3e50,2e4154,34495e&hide_border=true&hide_title=true&cache_seconds=0" width="450" />
 </div>
 
 <div align="center">
