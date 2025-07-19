@@ -43,7 +43,7 @@ Currently, I'm expanding my skills into **web development**, with a keen interes
 ## 📈 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-sanodmendis-projects.vercel.app/api/top-langs/?username=sanodmendis&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=2c3e50,2e4154,34495e&hide_border=true&cache_seconds=60" width="400" />
+  <img src="https://github-readme-stats-sanodmendis-projects.vercel.app/api/top-langs/?username=sanodmendis&langs_count=10&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=2c3e50,2e4154,34495e&hide_border=true&cache_seconds=60" width="400" />
 </div>
 
 ---
