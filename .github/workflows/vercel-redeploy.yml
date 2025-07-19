@@ -25,5 +25,5 @@ jobs:
 
       - name: Delete previous deployment
         run: |
-          curl --fail -X DELETE "https://api.vercel.com/v13/deployments/${{ steps.get_deployment.outputs.id }}" \
+          curl -X DELETE "https://api.vercel.com/v13/deployments/${{ steps.get_deployment.outputs.id }}" \
           -H "Authorization: Bearer ${{ secrets.VERCEL_TOKEN }}"
