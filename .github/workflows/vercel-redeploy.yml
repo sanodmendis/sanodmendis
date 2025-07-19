@@ -3,31 +3,33 @@ name: Auto Vercel Redeploy & Cleanup
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */12 * * *' 
 
 jobs:
   redeploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Get latest deployment ID
         id: get_deployment
         run: |
           DEPLOYMENT_ID=$(curl -s -H "Authorization: Bearer ${{ secrets.VERCEL_TOKEN }}" \
-          "https://api.vercel.com/v6/deployments?projectId=${{ secrets.VERCEL_PROJECT_ID }}&limit=1" \
-          | jq -r '.deployments[0].uid')
+            "https://api.vercel.com/v6/deployments?projectId=${{ secrets.VERCEL_PROJECT_ID }}&limit=1" \
+            | jq -r '.deployments[0].uid')
+
           echo "id=$DEPLOYMENT_ID" >> $GITHUB_OUTPUT
 
       - name: Trigger new deployment
         run: |
-          curl -X POST "https://api.vercel.com/v13/deployments" \
+          curl --fail -X POST "https://api.vercel.com/v13/deployments" \
           -H "Authorization: Bearer ${{ secrets.VERCEL_TOKEN }}" \
           -H "Content-Type: application/json" \
           -d '{
-            "projectId": "'"${{ secrets.VERCEL_PROJECT_ID }}"'",
-            "teamId": "'"${{ secrets.VERCEL_TEAM_ID }}"'"
+            "name": "github-readme-stats",
+            "projectId": "'"${{ secrets.VERCEL_PROJECT_ID }}"'"
           }'
 
       - name: Delete previous deployment
         run: |
-          curl -X DELETE "https://api.vercel.com/v13/deployments/${{ steps.get_deployment.outputs.id }}" \
+          curl --fail -X DELETE "https://api.vercel.com/v13/deployments/${{ steps.get_deployment.outputs.id }}" \
           -H "Authorization: Bearer ${{ secrets.VERCEL_TOKEN }}"
