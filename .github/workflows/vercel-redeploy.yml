@@ -3,7 +3,7 @@ name: Auto Vercel Redeploy & Cleanup
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *' 
+    - cron: '0 */12 * * *'   # Every 12 hours
 
 jobs:
   redeploy:
@@ -19,15 +19,9 @@ jobs:
 
           echo "id=$DEPLOYMENT_ID" >> $GITHUB_OUTPUT
 
-      - name: Trigger new deployment
+      - name: Trigger new deployment via deploy hook
         run: |
-          curl --fail -X POST "https://api.vercel.com/v13/deployments" \
-          -H "Authorization: Bearer ${{ secrets.VERCEL_TOKEN }}" \
-          -H "Content-Type: application/json" \
-          -d '{
-            "name": "github-readme-stats",
-            "projectId": "'"${{ secrets.VERCEL_PROJECT_ID }}"'"
-          }'
+          curl --fail -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}"
 
       - name: Delete previous deployment
         run: |
