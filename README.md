@@ -21,7 +21,7 @@ Currently, I'm expanding my skills into **web development**, with a keen interes
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanodmendis&hide_border=true&background=2c3e50&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&text=ffffff&cache_seconds=0" width="450" />
+  <img src="https://streak-stats.demolab.com/?user=sanodmendis&hide_border=true&background=2c3e50&ring=fb8c00&fire=fb8c00&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&text=ffffff&cache_seconds=0" width="450" />
 </div>
 
 ---
