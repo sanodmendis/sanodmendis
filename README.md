@@ -41,7 +41,7 @@ A passionate Software Developer with 5+ years of professional and freelance expe
 ## 📈 Most Used Languages
 
 <div align="center">  
-  <img src="https://github-readme-stats-sanodmendis-projects.vercel.app/api/top-langs/?username=sanodmendis&langs_count=6&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=2c3e50,2e4154,34495e&hide_border=true&cache_seconds=0&hide=html,css,cmake" width="400" />  
+  <img src="https://github-readme-stats-sanodmendis-projects.vercel.app/api/top-langs/?username=sanodmendis&langs_count=6&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=2c3e50,2e4154,34495e&hide_border=true&cache_seconds=0&hide=html,css,cmake,javascript" width="400" />  
 </div>  
 
 ---
