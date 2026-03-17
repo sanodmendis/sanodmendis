@@ -1,16 +1,7 @@
 # 👋 Hi, I'm Sanod
 
 ## 💼 About Me
-
-A passionate Software Developer with 5+ years of professional and freelance experience, including at **MAS Intimates**, delivering robust **PoS**, **ERP**, **Inventory** and **CRM** solutions. Skilled in **C#**, **Java**, **Python** and cloud platforms (**Azure**, **AWS**, **Firebase**). Focused on clean architecture, scalability and seamless user experiences. Currently expanding into **modern web development**.
-
-### Highlights
-
-* 🔧 Build scalable, high-performance software solutions
-* ☁️ Deploy enterprise apps on Azure, AWS & Firebase
-* 💡 Exploring **AI/ML**, **IoT** and **Full-Stack Development**
-* 🚀 Growthdriven, aiming for leadership impact
-* ✅ Qualityfocused: clean, tested, optimized code
+Software Developer with 5+ years’ experience (freelance + enterprise), including MAS Intimates. I build scalable PoS, ERP, Inventory, and CRM systems. Skilled in C#, Java, Python, and cloud (Azure, AWS, Firebase). Focused on clean architecture and performance. Expanding into modern web.
 
 ---
 
@@ -30,14 +21,10 @@ A passionate Software Developer with 5+ years of professional and freelance expe
 ---
 
 ## 🛠️ Skills
-
-* **Languages:** C#, Python, Java, PHP
-* **Frameworks:** .NET, Qt, Tkinter, Java Swing, PyQt
-* **Databases:** MySQL, SQLite, Postgre, MongoDB
-* **Cloud/DevOps:** Azure, AWS, Firebase, GitHub Actions
-* **Testing/Debugging:** Unit & Integration Testing, VS Debugger
-* **Deployment:** Installers, CI/CD pipelines
-* **Emerging Tech:** AI/ML (TensorFlow, PyTorch), IoT
+* C#, Python, Java, PHP  
+* .NET, Qt, Swing, PyQt  
+* MySQL, SQLite, PostgreSQL, MongoDB  
+* Azure, AWS, Firebase, GitHub Actions  
 
 ---
 
@@ -49,4 +36,4 @@ A passionate Software Developer with 5+ years of professional and freelance expe
 
 ---
 
-*"Code is not just code - it's a solution and an experience."*
+*"Code = solution + experience."*
