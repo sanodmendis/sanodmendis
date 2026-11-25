@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sanod
 
 ## 💼 About Me
-Software Developer with 6+ years’ experience (freelance + enterprise), including MAS Intimates. I build scalable PoS, ERP, Inventory and CRM systems. Skilled in C#, Java, Python, PHP and cloud (Azure, AWS, Firebase). Focused on clean architecture and performance. Expanding into modern web.
+Software Developer with 6+ years’ experience (freelance + enterprise), including MAS Intimates. I build scalable PoS, ERP, Inventory and CRM systems. Skilled in C#, Java, Python, PHP and cloud (AWS, Firebase). Focused on clean architecture and performance. Expanding into modern web.
 
 ---
 
